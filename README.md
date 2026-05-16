@@ -1,0 +1,2 @@
+# Blockchain-Based-Secure-Key-Exchange-Framework-Using-the-Diffie-Hellman-Protocol
+Final year project proposes a secure real-time key exchange system using Diffie–Hellman and blockchain technology. Public keys are verified through blockchain to prevent tampering and man-in-the-middle attacks, while the shared secret key enables secure encryption. Built with Python and Flask, the system supports secure messaging and file sharing.
